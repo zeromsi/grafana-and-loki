@@ -29,3 +29,6 @@ Testdata
 - By default kibana dashboard is public. If we want RBAC, we need to purchage ``` Elastic Stack security features ```. On the other hand grafana provides RBAC by default.
 
 
+## Intall Grafana and map prometheus
+
+[Link](https://devopscube.com/setup-grafana-kubernetes/)
