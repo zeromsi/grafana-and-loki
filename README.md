@@ -26,6 +26,6 @@ Testdata
 - Grafana doesn't support text based querying and visualization, kibana does.
 
 - Kibana by default doesn't support alerting service (Integration wil slack and others) but Grafana does.
-
+- By default kibana dashboard is public. If we want RBAC, we need to purchage ``` Elastic Stack security features ```. On the other hand grafana provides RBAC by default.
 
 
