@@ -45,6 +45,7 @@ Testdata
 
 ### A Loki-based logging stack consists of 3 components:
 
-- promtail is the agent, responsible for gathering logs and sending them to Loki.
-- loki is the main server, responsible for storing logs and processing queries.
-- Grafana for querying and displaying the logs.
+- ``` promtail ``` is the agent, responsible for gathering logs and sending them to Loki.
+- ``` loki ``` is the main server, responsible for storing logs and processing queries.
+- ``` Grafana ``` for querying and displaying the logs.
+``` Promtail``` can be deployed as a ``` sidecar ``` or a ``` daemonSet ``` . ``` DaemonSet``` the best solution for a single-tenant model but In a multi-tenant environment, ``` sidecar ``` enables teams to aggregate logs for specific pods and deployments.
