@@ -52,3 +52,5 @@ Testdata
 
 
 ### Loki Api: https://github.com/grafana/loki/blob/master/docs/logql.md
+
+### Loki Architecture: https://github.com/grafana/loki/blob/v1.3.0/docs/architecture.md#components
