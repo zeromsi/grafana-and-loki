@@ -49,3 +49,6 @@ Testdata
 - ``` loki ``` is the main server, responsible for storing logs and processing queries.
 - ``` Grafana ``` for querying and displaying the logs.
 ``` Promtail``` can be deployed as a ``` sidecar ``` or a ``` daemonSet ``` . ``` DaemonSet``` the best solution for a single-tenant model but In a multi-tenant environment, ``` sidecar ``` enables teams to aggregate logs for specific pods and deployments.
+
+
+### Loki Api: https://github.com/grafana/loki/blob/master/docs/logql.md
