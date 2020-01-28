@@ -18,5 +18,5 @@
 
 ### Loki Architecture: [see more](https://github.com/grafana/loki/blob/v1.3.0/docs/architecture.md#components)
 
-### Loki Api: https://github.com/grafana/loki/blob/master/docs/logql.md
+### Loki Api: https://github.com/grafana/loki/blob/master/docs/api.md
 
