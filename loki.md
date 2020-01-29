@@ -20,5 +20,5 @@
 
 ### Loki Api: https://github.com/grafana/loki/blob/master/docs/api.md
 
-### LohgQL: https://github.com/grafana/loki/blob/v1.3.0/docs/logql.md
+### LogQL: https://github.com/grafana/loki/blob/v1.3.0/docs/logql.md
 
